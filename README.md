@@ -6,7 +6,7 @@
 * [Go Belfast Meetup](https://www.meetup.com/belfast-gophers/events/290216512/)
 * [Go Belfast YouTube](https://www.youtube.com/@belfastgophers)
 
-[![Presentation](misc/TestScriptBelfast.png)](misc/TestingInGo.pdf)
+[![Presentation](misc/TestScriptBelfast.png)](misc/TestScript.pdf)
 
 ## Additional resources
 
