@@ -1,4 +1,4 @@
-# Belfast Gophers Meetup - February 2023
+# Belfast Gophers Meetup
 
 ## Slides and code examples for the Go Belfast Meetup - February 2023
 
